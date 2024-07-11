@@ -31,7 +31,17 @@ Each endpoint must include the necessary data in the request body or URL paramet
 11. POST /api/thought/:thoughtId/reactions - add a reaction to a thought
 12. DELETE /api/thought/:thoughtId/reactions/:reactionId - remove a reaction from a thought
 13. POST /api/users/:userId/friends/:friendId - add a friend to a user's friend list
-14. DELETE /api/users/:userId/friends/:friendId - remove a friend from a user's friend list
+## link for the demo
+https://drive.google.com/file/d/1JFnzY0vMr1YwUvQBYmZwmoujJ9J3FSNb/view
+
+## Build with
+Json, Dynamic JavaScript, Mongoose, Express, Node.js, Insomnia 
+![Screenshot 2024-07-12 020219](https://github.com/SoniiPP/NoSQL-Social-Network-API/assets/157616916/6c2a9a2a-0456-4798-9871-9c81900c6400)![Screenshot 2024-07-12 020246](https://github.com/SoniiPP/NoSQL-Social-Network-API/assets/157616916/15f1a8b6-3409-424e-add6-cf81b1f050c7)![Screenshot 2024-07-12 020321](https://github.com/SoniiPP/NoSQL-Social-Network-API/assets/157616916/be0fc7df-47c6-4681-91e1-baa945ce3575)
+
+
+
+
+15. DELETE /api/users/:userId/friends/:friendId - remove a friend from a user's friend list
 
 ## Insta
 
